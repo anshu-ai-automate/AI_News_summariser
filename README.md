@@ -24,4 +24,4 @@ An automated AI agent that fetches the latest news daily, summarizes it using LL
 5. Activate the workflow — it runs daily at 8AM automatically
 
 ## Note
-All credentials and IDs have been removed from the workflow JSON. Add your own before, RUNNING.....
+All credentials and IDs have been removed from the workflow JSON. Add your own before, RUNNING.

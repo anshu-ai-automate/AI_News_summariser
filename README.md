@@ -1,4 +1,4 @@
-# AI News Summarizer Agent
+ # AI News Summarizer Agent
 
 An automated AI agent that fetches the latest news daily, summarizes it using LLM, and delivers it straight to Telegram.
 
